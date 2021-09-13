@@ -1,0 +1,303 @@
+/* Elementor styles
+----------------------------------------------------------------- */
+/* Add negative margins to the our post container to align left and right side of the post content and header/footer */
+.post_content > .elementor {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+/* Add margins to "No Gap" on fullscreen for compensation of the previous rule */
+.body_style_fullscreen .post_content > .elementor .elementor-section.elementor-section-full_width > .elementor-container.elementor-column-gap-no {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+/* Boxed sections in the fullwidth pages */
+.body_style_fullwide .elementor-section.elementor-section-boxed > .elementor-container {
+  max-width: 1660px;
+}
+
+/* Default Elementor's grid */
+.elementor-column-gap-narrow > .elementor-row > .elementor-column > .elementor-element-populated {
+  padding: 5px;
+}
+
+.elementor-column-gap-default > .elementor-row > .elementor-column > .elementor-element-populated {
+  padding: 10px;
+}
+
+/*
+.elementor-column-gap-extended > .elementor-row > .elementor-column > .elementor-element-populated {
+  padding: 15px;
+}
+*/
+
+.elementor-column-gap-wide > .elementor-row > .elementor-column > .elementor-element-populated {
+  padding: 20px;
+}
+
+.elementor-column-gap-wider > .elementor-row > .elementor-column > .elementor-element-populated {
+  padding: 30px;
+}
+
+/* Stretch columns container to remove white spaces from sides of the rows with gaps between columns */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container:not(.elementor-column-gap-no) {
+  max-width: none;
+  position: relative;
+}
+
+/* Narrow: 5px */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow,
+.elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow {
+  width: 1180px;
+}
+
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow,
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow {
+  width: 770px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow,
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow {
+  left: -5px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width.elementor-section-stretched:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-narrow {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+/* Default: 10px */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default,
+.elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default {
+  width: 1190px;
+}
+
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default,
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default {
+  width: 780px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default,
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default {
+  left: -10px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width.elementor-section-stretched:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-default {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+/* Extended: 15px */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended,
+.elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended {
+  width: 1200px;
+}
+
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended,
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended {
+  width: 790px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended,
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended {
+  left: -15px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width.elementor-section-stretched:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-extended {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+/* Wide: 20px */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide,
+.elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide {
+  width: 1210px;
+}
+
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide,
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide {
+  width: 800px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide,
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide {
+  left: -20px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width.elementor-section-stretched:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wide {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+/* Wider: 30px */
+.elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider,
+.elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider {
+  width: 1230px;
+}
+
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider,
+.sidebar_show .content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider {
+  width: 820px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-boxed:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider,
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width:not(.elementor-section-stretched):not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider {
+  left: -30px;
+}
+
+.content_wrap .elementor-section.elementor-section-justified.elementor-section-full_width.elementor-section-stretched:not(.elementor-inner-section) > .elementor-container.elementor-column-gap-wider {
+  margin-left: -30px;
+  margin-right: -30px;
+}
+
+/* elementor-widget-progress */
+.elementor-widget-progress .elementor-title {
+  font-size: 1.14rem;
+}
+
+.elementor-widget-progress .elementor-progress-wrapper {
+  height: 3px;
+  line-height: 7rem;
+  margin-top: 1.16rem;
+}
+.elementor-widget-progress .elementor-progress-percentage{
+  font-size: 1.14rem;
+  position: absolute;
+  top: -2.7rem;
+  right: -1rem;
+  line-height: 1;
+  font-weight: 500;
+}
+
+.elementor-widget-progress .elementor-progress-text {
+  font-size: 1rem;
+  display: block;
+  height: 1.2em;
+  line-height: 1.2em;
+  padding: 0.5rem 0;
+  overflow: visible;
+}
+
+.elementor-widget-progress .elementor-progress-bar {
+  height: 3px;
+}
+
+/* elementor-widget-gallery */
+.elementor-image-gallery {
+  overflow: hidden;
+}
+/*
+.elementor .elementor-widget .elementor-image-gallery .gallery-item {
+  margin-top: -1px;
+  margin-bottom: -1px;
+}
+ */
+.image-gallery-frame-square .elementor-image-gallery  .gallery-item {
+  border: 1px solid #E8E8E8;
+  overflow: hidden;
+  padding: 0;
+  margin-right: -1px!important;
+  margin-bottom: -1px!important;
+}
+.image-gallery-frame-square .elementor-image-gallery .gallery-item:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+.gallery-item .gallery-icon {
+  opacity: 0.6;
+  -webkit-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.gallery-item:hover .gallery-icon {
+  opacity: 1;
+}
+.image-gallery-frame-square .elementor-image-gallery .gallery-item .gallery-icon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  width: 100%;
+}
+
+/* elementor-widget-social-icons */
+.footer_wrap .elementor-social-icon {
+  border: 1px solid;
+}
+
+.elementor-icon.elementor-social-icon{
+  vertical-align: middle;
+  padding: .65em;
+}
+
+[data-type^="trx-addons/socials"],
+[data-type^="trx-addons/button"],
+[data-type^="trx-addons/layouts-"]:not([data-type^="trx-addons/layouts-blog-item"]):not([data-type^="trx-addons/layouts-container"]):not([data-type^="trx-addons/layouts-featured"]):not([data-type^="trx-addons/layouts-title"]),
+.wp-block-column > .sc_layouts_item,
+.sc_layouts_column .sc_layouts_item:not(.elementor-widget-divider):not(.elementor-widget-spacer),
+.sc_layouts_column .sc_layouts_item + div:not(.sc_layouts_item):not(.vc_row):not(.vc_separator):not(.vc_empty_space):not(.vc_wp_text) {
+	margin-right: 1em;
+}
+
+.sc_layouts_column_align_right [data-type^="trx-addons/socials"],
+.sc_layouts_column_align_right [data-type^="trx-addons/button"],
+.sc_layouts_column_align_right [data-type^="trx-addons/layouts-"]:not([data-type^="trx-addons/layouts-blog-item"]):not([data-type^="trx-addons/layouts-container"]):not([data-type^="trx-addons/layouts-featured"]):not([data-type^="trx-addons/layouts-title"]),
+.sc_layouts_column_align_right.wp-block-column > .sc_layouts_item,
+.sc_layouts_column_align_right .sc_layouts_item:not(.elementor-widget-divider):not(.elementor-widget-spacer),
+.sc_layouts_column_align_right .sc_layouts_item + div:not(.sc_layouts_item):not(.vc_row):not(.vc_separator):not(.vc_empty_space):not(.vc_wp_text) {
+	margin-left: 1.9em!important;
+	margin-right:0;
+}
+
+/* elementor-widget-toggle */
+.elementor-widget-toggle .elementor-widget-container {
+overflow: visible;
+}
+
+.elementor-widget-toggle .elementor-toggle-item {
+  margin-bottom: 18.5px;
+  box-shadow: 0px 0px 49px 0px rgba(0,0,1,0.05);
+}
+
+.elementor-widget-toggle .elementor-tab-title {
+  padding: 2.9em 3.2em;
+  border-bottom: 0;
+  font-weight: 500;
+}
+
+.elementor-widget-toggle .elementor-tab-content {
+  border-bottom: 0;
+  padding: 0 2.7em 0.75em;
+}
+
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {
+  font-size: 1.14rem;
+  letter-spacing: -0.02em;
+}
+
+.elementor-toggle .elementor-tab-title {
+  line-height: 1.4em;
+}
+
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title a {
+  color: inherit;
+}
+
+/* Menu */
+.widget.wp-widget-nav_menu ul {
+  margin-top: 1.6rem;
+  padding-left:0;
+}
+
+.widget.wp-widget-nav_menu ul > li{
+  margin-bottom: 0.55em;
+}
+
+.widget.wp-widget-nav_menu ul > li:before {
+  display: none;
+}

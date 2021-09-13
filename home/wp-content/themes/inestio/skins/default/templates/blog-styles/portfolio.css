@@ -1,0 +1,71 @@
+/* Blog layout: Portfolio
+------------------------- */
+.post_layout_portfolio_4 .post_title {
+  font-size: 1.2rem;
+  }
+
+.post_layout_portfolio .post_featured {
+  margin-bottom: 0;
+}
+
+.post_layout_portfolio .post_featured[class*="hover_"] {
+  display: block;
+}
+
+.post_layout_portfolio .post_featured img {
+  width: 100%;
+}
+
+.post_layout_portfolio .label_sticky {
+  top: -12px;
+  left: -12px;
+  right: auto;
+  -webkit-transform: rotate(135deg);
+  -ms-transform: rotate(135deg);
+  transform: rotate(135deg);
+}
+
+.post_layout_portfolio_2 .mejs-time,.post_layout_portfolio_4 .post_title
+.post_layout_portfolio_3 .mejs-time  {
+  height: auto;
+}
+
+.post_layout_portfolio_3 .format-audio .post_featured.with_thumb .post_audio,
+.post_layout_portfolio_3  .sc_layouts_blog_item_featured .post_featured.with_thumb .post_audio {
+  bottom: 0;
+}
+
+.post_layout_portfolio_3 .mejs-controls .mejs-time, .post_layout_portfolio_4 .mejs-controls .mejs-time {
+  font-size: 12px;
+  padding: 12px 0px 0;
+}
+
+.post_layout_portfolio_3.format-audio .post_featured.with_thumb .post_audio,
+.post_layout_portfolio_3.sc_layouts_blog_item_featured .post_featured.with_thumb .post_audio,
+.post_layout_portfolio_4.format-audio .post_featured.with_thumb .post_audio,
+.post_layout_portfolio_4.sc_layouts_blog_item_featured .post_featured.with_thumb .post_audio {
+  width: 100%;
+  padding: 10px;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.post_layout_portfolio_3 .mejs-controls .mejs-button > button,
+.post_layout_portfolio_3 .mejs-controls .mejs-button > button {
+  font-size: inherit !important;
+}
+
+.post_layout_portfolio_3 .mejs-controls .mejs-button,
+.post_layout_portfolio_3 .mejs-controls .mejs-volume-button:hover,
+.post_layout_portfolio_4 .mejs-controls .mejs-button, .post_layout_portfolio_4
+.post_layout_portfolio_4 .mejs-controls .mejs-volume-button:hover {
+  height: 26px;
+  width: 22px;
+  margin-top: 4px;
+}
+
+.post_layout_portfolio_3 .mejs-controls .mejs-button>button, .post_layout_portfolio_4 .mejs-controls .mejs-button>button {
+  margin: 3px;
+}

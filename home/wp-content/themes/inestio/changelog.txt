@@ -1,0 +1,20 @@
+Version 1.0.2
+	Added:
+		- WP 5.7.2 compatibility
+		- PHP 8 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+
+	Changed:
+		- Update demo data
+
+Version 1.0.1
+* Fixed styles of lists in mozilla firefox.
+* Changed figcaption styles.
+* Fixed search button styles.
+* Fixed post_category styles on the blog page.
+* Changed styles of lists.
++ Added color to hoverd link in wp-block-cover
+
+Release 1.0.0

@@ -1,0 +1,2528 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inestio\n"
+"POT-Creation-Date: 2021-06-03 08:12+0300\n"
+"PO-Revision-Date: 2015-09-02 14:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-KeywordsList: translate_nooped_plural;gettext_noop;gettext;"
+"esc_html__;esc_html_e;esc_html_x;esc_attr__;esc_attr_e;_n_noop;_nx;_n;_x;_e;"
+"__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugins/elementor/elementor-style.php:25
+msgid "Theme Specific"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:26
+msgid "Inestio - Fade In Up"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:27
+msgid "Inestio - Fade In Right"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:28
+msgid "Inestio - Fade In Left"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:29
+msgid "Inestio - Fade In Down"
+msgstr ""
+
+#: plugins/elementor/elementor-style.php:30
+msgid "Inestio - Fade In"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:325 skin.php:361
+msgid "Color scheme"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:326
+msgid "Select color scheme to decorate this block"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:327 skin-options.php:1884
+#: skin-options.php:1902 skin-options.php:1914 skin-options.php:1926
+#: skin-options.php:1938 skin-options.php:1950
+msgid "Colors"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:336
+msgid "Color style"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:337
+msgid "Select color style to decorate this block"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:471 skin-setup.php:445
+msgid "Dark"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:500
+msgid "List styles"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:502
+msgid "Arrow"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:541
+msgid "E-mail"
+msgstr ""
+
+#: plugins/trx_addons/trx_addons-setup.php:542
+msgid "Team member's email"
+msgstr ""
+
+#: skin-demo-importer.php:25
+msgid "Inestio Demo"
+msgstr ""
+
+#: skin-demo-importer.php:47
+msgid "Inestio OCDI Demo"
+msgstr ""
+
+#: skin-options.php:27
+msgid ""
+"Attention! Some of these options can be overridden in the following sections "
+"(Blog, Plugins settings, etc.) or in the settings of individual pages. If "
+"you changed such parameter and nothing happened on the page, this option may "
+"be overridden in the corresponding section or in the Page Options of this "
+"page. These options are marked with an asterisk (*) in the title."
+msgstr ""
+
+#: skin-options.php:39
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: skin-options.php:46
+msgid "Logo Settings"
+msgstr ""
+
+#: skin-options.php:49 skin-options.php:57 skin-options.php:141
+#: skin-options.php:151 skin-options.php:161 skin-options.php:210
+#: skin-options.php:302 skin-options.php:317 skin-options.php:363
+#: skin-options.php:1002 skin-options.php:1018 skin-options.php:1126
+#: skin-options.php:1282 skin-options.php:1292 skin-options.php:1326
+#: skin-options.php:1587 skin-options.php:2221
+msgid "General"
+msgstr ""
+
+#: skin-options.php:53
+msgid "Use Site Name as Logo"
+msgstr ""
+
+#: skin-options.php:54
+msgid "Use the site title and tagline as a text logo if no image is selected"
+msgstr ""
+
+#: skin-options.php:61
+msgid "Logo zoom"
+msgstr ""
+
+#: skin-options.php:62
+msgid ""
+"Zoom the logo (set 1 to leave original size). For this parameter to affect "
+"images, their max-height should be specified in \"em\" instead of \"px\" "
+"when creating a header. In this case maximum size of logo depends on the "
+"actual size of the picture."
+msgstr ""
+
+#: skin-options.php:72
+msgid "Allow retina display logo"
+msgstr ""
+
+#: skin-options.php:73
+msgid "Show fields to select logo images for Retina display"
+msgstr ""
+
+#: skin-options.php:81
+msgid "Logo for Retina"
+msgstr ""
+
+#: skin-options.php:82 skin-options.php:98 skin-options.php:113
+msgid ""
+"Select or upload site logo used on Retina displays (if empty - use default "
+"logo from the field above)"
+msgstr ""
+
+#: skin-options.php:91
+msgid "Logo for the mobile header"
+msgstr ""
+
+#: skin-options.php:92
+msgid ""
+"Select or upload site logo to display it in the mobile header (if enabled in "
+"the section \"Header - Header mobile\""
+msgstr ""
+
+#: skin-options.php:97
+msgid "Logo for the mobile header on Retina"
+msgstr ""
+
+#: skin-options.php:106
+msgid "Logo for the mobile menu"
+msgstr ""
+
+#: skin-options.php:107
+msgid "Select or upload site logo to display it in the mobile menu"
+msgstr ""
+
+#: skin-options.php:112
+msgid "Logo mobile on Retina"
+msgstr ""
+
+#: skin-options.php:121
+msgid "Logo for the side menu"
+msgstr ""
+
+#: skin-options.php:122
+msgid ""
+"Select or upload site logo (with vertical orientation) to display it in the "
+"side menu"
+msgstr ""
+
+#: skin-options.php:127
+msgid "Logo for the side menu on Retina"
+msgstr ""
+
+#: skin-options.php:128
+msgid ""
+"Select or upload site logo (with vertical orientation) to display it in the "
+"side menu on Retina displays (if empty - use default logo from the field "
+"above)"
+msgstr ""
+
+#: skin-options.php:149
+msgid "Layout"
+msgstr ""
+
+#: skin-options.php:155 skin-options.php:2475
+msgid "Body style"
+msgstr ""
+
+#: skin-options.php:156 skin-options.php:2476
+msgid "Select width of the body content"
+msgstr ""
+
+#: skin-options.php:159 skin-options.php:207 skin-options.php:218
+#: skin-options.php:236 skin-options.php:260 skin-options.php:273
+#: skin-options.php:299 skin-options.php:311 skin-options.php:326
+#: skin-options.php:340 skin-options.php:355 skin-options.php:398
+#: skin-options.php:1010 skin-options.php:1027 skin-options.php:1070
+#: skin-options.php:1089 skin-options.php:1107 skin-options.php:1123
+#: skin-options.php:1140 skin-options.php:1162 skin-options.php:1179
+#: skin-options.php:1193 skin-options.php:1203 skin-options.php:1216
+#: skin-options.php:1411 skin-options.php:1498 skin-options.php:1508
+#: skin-options.php:1522 skin-options.php:1536 skin-options.php:1551
+#: skin-options.php:1566 skin-options.php:1584 skin-options.php:1596
+#: skin-options.php:1650 skin-options.php:1660 skin-options.php:1677
+#: skin-options.php:1697 skin-options.php:1712 skin-options.php:1728
+#: skin-options.php:1743 skin-options.php:1756 skin-options.php:1777
+#: skin-options.php:1795 skin-options.php:2469 skin-plugins.php:18
+#: theme-specific/theme-hovers/theme-hovers.php:34
+msgid "Content"
+msgstr ""
+
+#: skin-options.php:168
+msgid "Page width"
+msgstr ""
+
+#: skin-options.php:169
+msgid ""
+"Total width of the site content and sidebar (in pixels). If empty - use "
+"default width"
+msgstr ""
+
+#: skin-options.php:184
+msgid "Boxed page extra spaces"
+msgstr ""
+
+#: skin-options.php:185
+msgid "Width of the extra side space on boxed pages"
+msgstr ""
+
+#: skin-options.php:200 skin-options.php:2482
+msgid "Boxed bg image"
+msgstr ""
+
+#: skin-options.php:201 skin-options.php:2483
+msgid "Select or upload image, used as background in the boxed body"
+msgstr ""
+
+#: skin-options.php:214
+msgid "Page margins"
+msgstr ""
+
+#: skin-options.php:215
+msgid "Add margins above and below the content area"
+msgstr ""
+
+#: skin-options.php:227
+msgid "Navigation"
+msgstr ""
+
+#: skin-options.php:232
+msgid "Sidemenu position"
+msgstr ""
+
+#: skin-options.php:233
+msgid ""
+"Select position of the side menu - panel with icons (ancors) for inner-page "
+"navigation. Use this menu if shortcodes \"Ancor\" are present on the page."
+msgstr ""
+
+#: skin-options.php:241
+msgid "No menu"
+msgstr ""
+
+#: skin-options.php:245
+msgid "Left menu"
+msgstr ""
+
+#: skin-options.php:249
+msgid "Right menu"
+msgstr ""
+
+#: skin-options.php:256
+msgid "Iconed sidemenu"
+msgstr ""
+
+#: skin-options.php:257
+msgid ""
+"Get icons from anchors and display it in the sidemenu or mark sidemenu items "
+"with simple dots"
+msgstr ""
+
+#: skin-options.php:269
+msgid "Stretch sidemenu"
+msgstr ""
+
+#: skin-options.php:270
+msgid "Stretch sidemenu to window height (if menu items number >= 5)"
+msgstr ""
+
+#: skin-options.php:283
+msgid "Mobile menu fullscreen"
+msgstr ""
+
+#: skin-options.php:284
+msgid ""
+"Display mobile and side menus on full screen (if checked) or slide narrow "
+"menu from the left or from the right side (if not checked)"
+msgstr ""
+
+#: skin-options.php:290 skin-options.php:1273 skin-options.php:1488
+#: skin-options.php:2366 skin-options.php:2538
+msgid "Sidebar"
+msgstr ""
+
+#: skin-options.php:295 skin-options.php:1278 skin-options.php:1493
+#: skin-options.php:2371
+msgid "Sidebar position"
+msgstr ""
+
+#: skin-options.php:296 skin-options.php:1279 skin-options.php:2372
+msgid "Select position to show sidebar"
+msgstr ""
+
+#: skin-options.php:307 skin-options.php:1286 skin-options.php:1504
+msgid "Sidebar position on the small screen"
+msgstr ""
+
+#: skin-options.php:308
+msgid ""
+"Select position to move sidebar (if it's not hidden) on the small screen - "
+"above or below the content"
+msgstr ""
+
+#: skin-options.php:322 skin-options.php:892 skin-options.php:1297
+#: skin-options.php:1518 skin-options.php:2378
+msgid "Sidebar style"
+msgstr ""
+
+#: skin-options.php:323 skin-options.php:893 skin-options.php:1298
+#: skin-options.php:1519 skin-options.php:2379 skin-options.php:2565
+#: skin-options.php:2618
+msgid ""
+"Choose whether to use the default sidebar or sidebar Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+
+#: skin-options.php:336 skin-options.php:526 skin-options.php:730
+#: skin-options.php:862 skin-options.php:902 skin-options.php:948
+#: skin-options.php:1238 skin-options.php:1307 skin-options.php:1453
+#: skin-options.php:1532 skin-options.php:2331 skin-options.php:2388
+#: skin-options.php:2503 skin-options.php:2574 skin-options.php:2627
+#: skin-options.php:2679
+msgid "Select custom layout"
+msgstr ""
+
+#: skin-options.php:337 skin-options.php:903 skin-options.php:1308
+#: skin-options.php:1533 skin-options.php:2389 skin-options.php:2575
+#: skin-options.php:2628
+msgid "Select custom sidebar from Layouts Builder"
+msgstr ""
+
+#: skin-options.php:351 skin-options.php:913 skin-options.php:1318
+#: skin-options.php:1547 skin-options.php:2399
+msgid "Sidebar widgets"
+msgstr ""
+
+#: skin-options.php:352 skin-options.php:1319 skin-options.php:2400
+msgid "Select default widgets to show in the sidebar"
+msgstr ""
+
+#: skin-options.php:367
+msgid "Sidebar width"
+msgstr ""
+
+#: skin-options.php:368
+msgid "Width of the sidebar (in pixels). If empty - use default width"
+msgstr ""
+
+#: skin-options.php:380
+msgid "Sidebar gap"
+msgstr ""
+
+#: skin-options.php:381
+msgid "Gap between content and sidebar (in pixels). If empty - use default gap"
+msgstr ""
+
+#: skin-options.php:393 skin-options.php:924 skin-options.php:1330
+#: skin-options.php:1562 skin-options.php:2410 skin-options.php:2650
+msgid "Content width"
+msgstr ""
+
+#: skin-options.php:394 skin-options.php:1331 skin-options.php:2411
+msgid "Content width if the sidebar is hidden"
+msgstr ""
+
+#: skin-options.php:406 skin-options.php:1339 skin-options.php:2419
+msgid "Additional widgets"
+msgstr ""
+
+#: skin-options.php:412 skin-options.php:1345 skin-options.php:2425
+#: skin-options.php:2725
+msgid "Widgets at the top of the page"
+msgstr ""
+
+#: skin-options.php:413 skin-options.php:1346 skin-options.php:2426
+#: skin-options.php:2726
+msgid ""
+"Select widgets to show at the top of the page (above content and sidebar)"
+msgstr ""
+
+#: skin-options.php:416 skin-options.php:428 skin-options.php:440
+#: skin-options.php:452
+msgid "Widgets"
+msgstr ""
+
+#: skin-options.php:424 skin-options.php:1353 skin-options.php:2433
+#: skin-options.php:2733
+msgid "Widgets above the content"
+msgstr ""
+
+#: skin-options.php:425 skin-options.php:1354 skin-options.php:2434
+#: skin-options.php:2734
+msgid "Select widgets to show at the beginning of the content area"
+msgstr ""
+
+#: skin-options.php:436 skin-options.php:1361 skin-options.php:2441
+#: skin-options.php:2740
+msgid "Widgets below the content"
+msgstr ""
+
+#: skin-options.php:437 skin-options.php:1362 skin-options.php:2442
+#: skin-options.php:2741
+msgid "Select widgets to show at the ending of the content area"
+msgstr ""
+
+#: skin-options.php:448 skin-options.php:1369 skin-options.php:2449
+#: skin-options.php:2747
+msgid "Widgets at the bottom of the page"
+msgstr ""
+
+#: skin-options.php:449 skin-options.php:1370 skin-options.php:2450
+#: skin-options.php:2748
+msgid ""
+"Select widgets to show at the bottom of the page (below content and sidebar)"
+msgstr ""
+
+#: skin-options.php:461
+msgid "Design & Effects"
+msgstr ""
+
+#: skin-options.php:466
+msgid "Border radius"
+msgstr ""
+
+#: skin-options.php:467
+msgid "Specify the border radius of the form fields and buttons in pixels"
+msgstr ""
+
+#: skin-options.php:480
+msgid "Miscellaneous"
+msgstr ""
+
+#: skin-options.php:485
+msgid "SEO snippets"
+msgstr ""
+
+#: skin-options.php:486
+msgid "Add structured data markup to the single posts and pages"
+msgstr ""
+
+#: skin-options.php:491
+msgid "Text with Privacy Policy link"
+msgstr ""
+
+#: skin-options.php:492
+msgid "Specify text with Privacy Policy link for the checkbox 'I agree ...'"
+msgstr ""
+
+#: skin-options.php:493
+msgid "I agree that my submitted data is being collected and stored."
+msgstr ""
+
+#: skin-options.php:502 skin-options.php:519 skin-options.php:530
+#: skin-options.php:544 skin-options.php:555 skin-options.php:565
+#: skin-options.php:592 skin-options.php:604 skin-options.php:624
+#: skin-options.php:1226 skin-options.php:1441 skin-options.php:2203
+#: skin-options.php:2319 skin-options.php:2491
+msgid "Header"
+msgstr ""
+
+#: skin-options.php:510 skin-options.php:515 skin-options.php:855
+#: skin-options.php:1231 skin-options.php:1446 skin-options.php:2324
+#: skin-options.php:2496
+msgid "Header style"
+msgstr ""
+
+#: skin-options.php:516 skin-options.php:1232 skin-options.php:1447
+#: skin-options.php:2325 skin-options.php:2497
+msgid ""
+"Choose whether to use the default header or header Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+
+#: skin-options.php:527 skin-options.php:863 skin-options.php:1239
+#: skin-options.php:1454 skin-options.php:2332
+msgid "Select custom header from Layouts Builder"
+msgstr ""
+
+#: skin-options.php:540 skin-options.php:872 skin-options.php:1248
+#: skin-options.php:1463 skin-options.php:2341 skin-options.php:2514
+msgid "Header position"
+msgstr ""
+
+#: skin-options.php:541 skin-options.php:873 skin-options.php:1249
+#: skin-options.php:1464 skin-options.php:2342
+msgid "Select position to display the site header"
+msgstr ""
+
+#: skin-options.php:551 skin-options.php:1255 skin-options.php:1470
+#: skin-options.php:2348
+msgid "Header fullheight"
+msgstr ""
+
+#: skin-options.php:552
+msgid ""
+"Enlarge header area to fill the whole screen. Used only if the header has a "
+"background image"
+msgstr ""
+
+#: skin-options.php:561 skin-options.php:1262 skin-options.php:1477
+#: skin-options.php:2355
+msgid "Header fullwidth"
+msgstr ""
+
+#: skin-options.php:562 skin-options.php:1263 skin-options.php:1478
+#: skin-options.php:2356
+msgid ""
+"Do you want to stretch the header widgets area to the entire window width?"
+msgstr ""
+
+#: skin-options.php:571
+msgid "Header zoom"
+msgstr ""
+
+#: skin-options.php:572
+msgid "Zoom the header title. 1 - original size"
+msgstr ""
+
+#: skin-options.php:583 skin-options.php:588 skin-options.php:2529
+msgid "Header widgets"
+msgstr ""
+
+#: skin-options.php:584
+msgid "Here you can place a widget slider, advertising banners, etc."
+msgstr ""
+
+#: skin-options.php:589
+msgid "Select set of widgets to show in the header on each page"
+msgstr ""
+
+#: skin-options.php:593
+msgid "Select set of widgets to show in the header on this page"
+msgstr ""
+
+#: skin-options.php:600
+msgid "Header columns"
+msgstr ""
+
+#: skin-options.php:601
+msgid ""
+"Select number columns to show widgets in the Header. If 0 - autodetect by "
+"the widgets count"
+msgstr ""
+
+#: skin-options.php:615
+msgid "Header image"
+msgstr ""
+
+#: skin-options.php:620 skin-options.php:2522
+msgid "Header image override"
+msgstr ""
+
+#: skin-options.php:621
+msgid ""
+"Allow override the header image with the page's/post's/product's/etc. "
+"featured image"
+msgstr ""
+
+#: skin-options.php:631
+msgid "Mobile header"
+msgstr ""
+
+#: skin-options.php:632
+msgid "Configure the mobile version of the header"
+msgstr ""
+
+#: skin-options.php:640
+msgid "Enable the mobile header"
+msgstr ""
+
+#: skin-options.php:641
+msgid ""
+"Use the mobile version of the header (if checked) or relayout the current "
+"header on mobile devices"
+msgstr ""
+
+#: skin-options.php:649
+msgid "Additional info"
+msgstr ""
+
+#: skin-options.php:650
+msgid "Additional info to show at the top of the mobile header"
+msgstr ""
+
+#: skin-options.php:662
+msgid "Hide additional info"
+msgstr ""
+
+#: skin-options.php:671
+msgid "Hide logo"
+msgstr ""
+
+#: skin-options.php:680
+msgid "Hide login/logout"
+msgstr ""
+
+#: skin-options.php:689
+msgid "Hide search"
+msgstr ""
+
+#: skin-options.php:698
+msgid "Hide cart"
+msgstr ""
+
+#: skin-options.php:712 skin-options.php:723 skin-options.php:734
+#: skin-options.php:748 skin-options.php:762 skin-options.php:777
+#: skin-options.php:2667
+msgid "Footer"
+msgstr ""
+
+#: skin-options.php:719 skin-options.php:941 skin-options.php:2672
+msgid "Footer style"
+msgstr ""
+
+#: skin-options.php:720 skin-options.php:2673
+msgid ""
+"Choose whether to use the default footer or footer Layouts (available only "
+"if the ThemeREX Addons is activated)"
+msgstr ""
+
+#: skin-options.php:731 skin-options.php:949
+msgid "Select custom footer from Layouts Builder"
+msgstr ""
+
+#: skin-options.php:744 skin-options.php:958 skin-options.php:2689
+msgid "Footer widgets"
+msgstr ""
+
+#: skin-options.php:745 skin-options.php:959 skin-options.php:2690
+msgid "Select set of widgets to show in the footer"
+msgstr ""
+
+#: skin-options.php:758 skin-options.php:968 skin-options.php:2699
+msgid "Footer columns"
+msgstr ""
+
+#: skin-options.php:759 skin-options.php:969 skin-options.php:2700
+msgid ""
+"Select number columns to show widgets in the footer. If 0 - autodetect by "
+"the widgets count"
+msgstr ""
+
+#: skin-options.php:773 skin-options.php:2710
+msgid "Footer fullwidth"
+msgstr ""
+
+#: skin-options.php:774 skin-options.php:2711
+msgid "Do you want to stretch the footer to the entire window width?"
+msgstr ""
+
+#: skin-options.php:786
+msgid "Show logo"
+msgstr ""
+
+#: skin-options.php:787
+msgid "Show logo in the footer"
+msgstr ""
+
+#: skin-options.php:796
+msgid "Logo for footer"
+msgstr ""
+
+#: skin-options.php:797
+msgid "Select or upload site logo to display it in the footer"
+msgstr ""
+
+#: skin-options.php:806
+msgid "Logo for footer (Retina)"
+msgstr ""
+
+#: skin-options.php:807
+msgid ""
+"Select or upload logo for the footer area used on Retina displays (if empty "
+"- use default logo from the field above)"
+msgstr ""
+
+#: skin-options.php:817
+msgid "Show social icons"
+msgstr ""
+
+#: skin-options.php:818
+msgid "Show social icons in the footer (under logo or footer widgets)"
+msgstr ""
+
+#: skin-options.php:826
+msgid "Copyright"
+msgstr ""
+
+#: skin-options.php:827
+msgid ""
+"Copyright text in the footer. Use {Y} to insert current year and press "
+"\"Enter\" to create a new line"
+msgstr ""
+
+#: skin-options.php:829
+msgid "Copyright &copy; {Y} by AxiomThemes. All rights reserved."
+msgstr ""
+
+#: skin-options.php:842
+msgid "Mobile"
+msgstr ""
+
+#: skin-options.php:850
+msgid "Header on the mobile device"
+msgstr ""
+
+#: skin-options.php:856
+msgid ""
+"Choose whether to use on mobile devices: the default header or header "
+"Layouts (available only if the ThemeREX Addons is activated)"
+msgstr ""
+
+#: skin-options.php:880
+msgid "Sidebar on the mobile device"
+msgstr ""
+
+#: skin-options.php:885
+msgid "Sidebar position on mobile"
+msgstr ""
+
+#: skin-options.php:886
+msgid "Select position to show sidebar on mobile devices"
+msgstr ""
+
+#: skin-options.php:914
+msgid "Select default widgets to show in the sidebar on mobile devices"
+msgstr ""
+
+#: skin-options.php:925
+msgid "Content width if the sidebar is hidden on mobile devices"
+msgstr ""
+
+#: skin-options.php:936
+msgid "Footer on the mobile device"
+msgstr ""
+
+#: skin-options.php:942
+msgid ""
+"Choose whether to use on mobile devices: the default footer or footer "
+"Layouts (available only if the ThemeREX Addons is activated)"
+msgstr ""
+
+#: skin-options.php:984
+msgid "Blog"
+msgstr ""
+
+#: skin-options.php:985
+msgid "Options of the the blog archive"
+msgstr ""
+
+#: skin-options.php:995
+msgid "Posts page"
+msgstr ""
+
+#: skin-options.php:996
+msgid "Style and components of the blog archive"
+msgstr ""
+
+#: skin-options.php:1000
+msgid "Posts page settings"
+msgstr ""
+
+#: skin-options.php:1001
+msgid ""
+"Customize the blog archive: post layout, header and footer style, sidebar "
+"position, etc."
+msgstr ""
+
+#: skin-options.php:1006 skin-options.php:2252
+msgid "Blog style"
+msgstr ""
+
+#: skin-options.php:1023 skin-options.php:2259
+msgid "First post large"
+msgstr ""
+
+#: skin-options.php:1024 skin-options.php:2260
+msgid "Make your first post stand out by making it bigger"
+msgstr ""
+
+#: skin-options.php:1039 skin-options.php:2266
+msgid "Posts content"
+msgstr ""
+
+#: skin-options.php:1040 skin-options.php:2267
+msgid "Display either post excerpts or the full post content"
+msgstr ""
+
+#: skin-options.php:1049 skin-options.php:2276
+msgid "Excerpt length"
+msgstr ""
+
+#: skin-options.php:1050 skin-options.php:2277
+msgid ""
+"Length (in words) to generate excerpt from the post content. Attention! If "
+"the post excerpt is explicitly specified - it appears unchanged"
+msgstr ""
+
+#: skin-options.php:1059
+msgid "Blog columns"
+msgstr ""
+
+#: skin-options.php:1060
+msgid "How many columns should be used in the blog archive (from 2 to 4)?"
+msgstr ""
+
+#: skin-options.php:1066
+msgid "Post type"
+msgstr ""
+
+#: skin-options.php:1067
+msgid "Select post type to show in the blog archive"
+msgstr ""
+
+#: skin-options.php:1085
+msgid "Category to show"
+msgstr ""
+
+#: skin-options.php:1086
+msgid "Select category to show in the blog archive"
+msgstr ""
+
+#: skin-options.php:1103
+msgid "Posts per page"
+msgstr ""
+
+#: skin-options.php:1104
+msgid "How many posts will be displayed on this page"
+msgstr ""
+
+#: skin-options.php:1119 skin-options.php:2297
+msgid "Pagination style"
+msgstr ""
+
+#: skin-options.php:1120 skin-options.php:2298
+msgid "Show Older/Newest posts or Page numbers below the posts list"
+msgstr ""
+
+#: skin-options.php:1136 skin-options.php:2304
+msgid "Post animation"
+msgstr ""
+
+#: skin-options.php:1137
+msgid ""
+"Select animation to show posts in the blog. Attention! Do not use any "
+"animation on pages with the \"wheel to the anchor\" behaviour!"
+msgstr ""
+
+#: skin-options.php:1152
+msgid "Disable animation on mobile"
+msgstr ""
+
+#: skin-options.php:1153
+msgid "Disable any posts animation on mobile devices"
+msgstr ""
+
+#: skin-options.php:1158
+msgid "Show filters"
+msgstr ""
+
+#: skin-options.php:1159
+msgid "Show categories as tabs to filter posts"
+msgstr ""
+
+#: skin-options.php:1174
+msgid "Open video in the popup on a blog archive"
+msgstr ""
+
+#: skin-options.php:1175
+msgid ""
+"Open the video from posts in the popup (if plugin \"ThemeREX Addons\" is "
+"installed) or play the video instead the cover image"
+msgstr ""
+
+#: skin-options.php:1189 skin-options.php:2311
+msgid "Open full post in blog"
+msgstr ""
+
+#: skin-options.php:1190
+msgid ""
+"Allow to open the full version of the post directly in the blog feed. "
+"Attention! Applies only to 1 column layouts!"
+msgstr ""
+
+#: skin-options.php:1199 skin-options.php:1849
+msgid "Hide author bio"
+msgstr ""
+
+#: skin-options.php:1200
+msgid ""
+"Hide author bio after post content when open the full version of the post "
+"directly in the blog feed."
+msgstr ""
+
+#: skin-options.php:1212 skin-options.php:1858
+msgid "Hide related posts"
+msgstr ""
+
+#: skin-options.php:1213
+msgid ""
+"Hide related posts after post content when open the full version of the post "
+"directly in the blog feed."
+msgstr ""
+
+#: skin-options.php:1256 skin-options.php:1471 skin-options.php:2349
+msgid ""
+"Enlarge header area to fill whole screen. Used only if header have a "
+"background image"
+msgstr ""
+
+#: skin-options.php:1287 skin-options.php:2554 skin-options.php:2607
+msgid ""
+"Select position to move sidebar on the small screen - above or below the "
+"content"
+msgstr ""
+
+#: skin-options.php:1378
+msgid "Advanced settings"
+msgstr ""
+
+#: skin-options.php:1383
+msgid "Image placeholder"
+msgstr ""
+
+#: skin-options.php:1384
+msgid ""
+"Select or upload an image used as placeholder for posts without a featured "
+"image. Placeholder is used on the blog stream page only (no placeholder in "
+"single post), and only in those styles of it where non-using featured image "
+"doesn't seem appropriate."
+msgstr ""
+
+#: skin-options.php:1389
+msgid "Easy Readable Date Format"
+msgstr ""
+
+#: skin-options.php:1390
+msgid ""
+"For how many days to show the easy-readable date format (e.g. '3 days ago') "
+"instead of the standard publication date"
+msgstr ""
+
+#: skin-options.php:1395
+msgid "Sticky posts style"
+msgstr ""
+
+#: skin-options.php:1396
+msgid "Select style of the sticky posts output"
+msgstr ""
+
+#: skin-options.php:1399
+msgid "Decorated posts"
+msgstr ""
+
+#: skin-options.php:1400
+msgid "Mini-cards"
+msgstr ""
+
+#: skin-options.php:1405 skin-options.php:1609 skin-options.php:2286
+#: skin-setup.php:227
+msgid "Post meta"
+msgstr ""
+
+#: skin-options.php:1406
+msgid ""
+"If your blog page is created using the 'Blog archive' page template, set up "
+"the 'Post Meta' settings in the 'Theme Options' section of that page. Post "
+"counters and Share Links are available only if plugin ThemeREX Addons is "
+"active"
+msgstr ""
+
+#: skin-options.php:1408 skin-options.php:1612 skin-options.php:2289
+msgid "<b>Tip:</b> Drag items to change their order."
+msgstr ""
+
+#: skin-options.php:1425
+msgid "Use \"Blog Archive\" page settings on the post list"
+msgstr ""
+
+#: skin-options.php:1426
+msgid ""
+"Apply options and content of pages created with the template \"Blog Archive"
+"\" for some type of posts and / or taxonomy when viewing feeds of posts of "
+"this type and taxonomy."
+msgstr ""
+
+#: skin-options.php:1435
+msgid "Single posts"
+msgstr ""
+
+#: skin-options.php:1436
+msgid "Settings of the single post"
+msgstr ""
+
+#: skin-options.php:1442
+msgid ""
+"Customize the single post: post layout, header and footer style,sidebar "
+"position, meta parts, etc."
+msgstr ""
+
+#: skin-options.php:1494
+msgid "Select position to show sidebar on the single posts"
+msgstr ""
+
+#: skin-options.php:1505
+msgid ""
+"Select position to move sidebar on the single posts on the small screen - "
+"above or below the content"
+msgstr ""
+
+#: skin-options.php:1548
+msgid "Select default widgets to show in the sidebar on the single posts"
+msgstr ""
+
+#: skin-options.php:1563
+msgid "Content width on the single posts if the sidebar is hidden"
+msgstr ""
+
+#: skin-options.php:1575
+msgid "Featured image and title"
+msgstr ""
+
+#: skin-options.php:1580
+msgid "Single style"
+msgstr ""
+
+#: skin-options.php:1592
+msgid "Post subtitle"
+msgstr ""
+
+#: skin-options.php:1593
+msgid "Specify post subtitle to display it under the post title."
+msgstr ""
+
+#: skin-options.php:1603
+msgid "Show post meta"
+msgstr ""
+
+#: skin-options.php:1604
+msgid "Display block with post's meta: date, categories, counters, etc."
+msgstr ""
+
+#: skin-options.php:1610
+msgid ""
+"Meta parts for single posts. Post counters and Share Links are available "
+"only if plugin ThemeREX Addons is active"
+msgstr ""
+
+#: skin-options.php:1623
+msgid "Share links position"
+msgstr ""
+
+#: skin-options.php:1624
+msgid ""
+"Select one or more positions to show Share links on single posts. Post "
+"counters and Share Links are available only if plugin ThemeREX Addons is "
+"active"
+msgstr ""
+
+#: skin-options.php:1634
+msgid "Show author info"
+msgstr ""
+
+#: skin-options.php:1635
+msgid "Display block with information about post's author"
+msgstr ""
+
+#: skin-options.php:1641 skin-options.php:1708
+msgid "Related posts"
+msgstr ""
+
+#: skin-options.php:1646
+msgid "Show related posts"
+msgstr ""
+
+#: skin-options.php:1647
+msgid "Show section 'Related posts' on the single post's pages"
+msgstr ""
+
+#: skin-options.php:1656
+msgid "Related posts style"
+msgstr ""
+
+#: skin-options.php:1657
+msgid "Select style of the related posts output"
+msgstr ""
+
+#: skin-options.php:1667 skin-setup.php:940 skin.php:232
+msgid "Classic"
+msgstr ""
+
+#: skin-options.php:1668
+msgid "Short"
+msgstr ""
+
+#: skin-options.php:1673
+msgid "Related posts position"
+msgstr ""
+
+#: skin-options.php:1674
+msgid "Select position to display the related posts"
+msgstr ""
+
+#: skin-options.php:1684
+msgid "Inside the content (fullwidth)"
+msgstr ""
+
+#: skin-options.php:1685
+msgid "At left side of the content"
+msgstr ""
+
+#: skin-options.php:1686
+msgid "At right side of the content"
+msgstr ""
+
+#: skin-options.php:1687
+msgid "After the content"
+msgstr ""
+
+#: skin-options.php:1688
+msgid "After the content & sidebar"
+msgstr ""
+
+#: skin-options.php:1693
+msgid "Before # paragraph"
+msgstr ""
+
+#: skin-options.php:1694
+msgid "Before what paragraph should related posts appear? If 0 - randomly."
+msgstr ""
+
+#: skin-options.php:1709
+msgid ""
+"How many related posts should be displayed in the single post? If 0 - no "
+"related posts are shown."
+msgstr ""
+
+#: skin-options.php:1724
+msgid "Related columns"
+msgstr ""
+
+#: skin-options.php:1725
+msgid ""
+"How many columns should be used to output related posts in the single page?"
+msgstr ""
+
+#: skin-options.php:1739
+msgid "Use slider layout"
+msgstr ""
+
+#: skin-options.php:1740
+msgid ""
+"Use slider layout in case related posts count is more than columns count"
+msgstr ""
+
+#: skin-options.php:1752
+msgid "Slider controls"
+msgstr ""
+
+#: skin-options.php:1753
+msgid "Show arrows in the slider"
+msgstr ""
+
+#: skin-options.php:1764 skin-options.php:1785 skin-options.php:1814
+#: skin-options.php:2156 skin-options.php:2165 skin.php:221
+msgid "None"
+msgstr ""
+
+#: skin-options.php:1765
+msgid "Side"
+msgstr ""
+
+#: skin-options.php:1766
+msgid "Outside"
+msgstr ""
+
+#: skin-options.php:1767
+msgid "Top"
+msgstr ""
+
+#: skin-options.php:1768 skin-options.php:1786
+msgid "Bottom"
+msgstr ""
+
+#: skin-options.php:1773
+msgid "Slider pagination"
+msgstr ""
+
+#: skin-options.php:1774
+msgid "Show bullets after the slider"
+msgstr ""
+
+#: skin-options.php:1791
+msgid "Space between slides"
+msgstr ""
+
+#: skin-options.php:1792
+msgid "Space between slides in the related posts slider"
+msgstr ""
+
+#: skin-options.php:1805
+msgid "Posts navigation"
+msgstr ""
+
+#: skin-options.php:1810
+msgid "Show posts navigation"
+msgstr ""
+
+#: skin-options.php:1811
+msgid "Show posts navigation on the single post's pages"
+msgstr ""
+
+#: skin-options.php:1815
+msgid "Prev/Next links"
+msgstr ""
+
+#: skin-options.php:1816
+msgid "Autoload next post"
+msgstr ""
+
+#: skin-options.php:1821
+msgid "Fixed posts navigation"
+msgstr ""
+
+#: skin-options.php:1822
+msgid ""
+"Make posts navigation fixed position. Display it when the content of the "
+"article is inside the window."
+msgstr ""
+
+#: skin-options.php:1830
+msgid "Which block to load?"
+msgstr ""
+
+#: skin-options.php:1831
+msgid ""
+"Load only the content of the next article or the article and sidebar "
+"together?"
+msgstr ""
+
+#: skin-options.php:1838
+msgid "Only content"
+msgstr ""
+
+#: skin-options.php:1842
+msgid "Full post"
+msgstr ""
+
+#: skin-options.php:1850
+msgid "Hide author bio after post content when infinite scroll is used."
+msgstr ""
+
+#: skin-options.php:1859
+msgid "Hide related posts after post content when infinite scroll is used."
+msgstr ""
+
+#: skin-options.php:1867
+msgid "Hide comments"
+msgstr ""
+
+#: skin-options.php:1868
+msgid "Hide comments after post content when infinite scroll is used."
+msgstr ""
+
+#: skin-options.php:1892
+msgid "Color schemes"
+msgstr ""
+
+#: skin-options.php:1893
+msgid ""
+"Color schemes for various parts of the site. \"Inherit\" means that this "
+"block is used the Site color scheme (the first parameter)"
+msgstr ""
+
+#: skin-options.php:1898
+msgid "Site Color Scheme"
+msgstr ""
+
+#: skin-options.php:1910
+msgid "Header Color Scheme"
+msgstr ""
+
+#: skin-options.php:1922
+msgid "Sidemenu Color Scheme"
+msgstr ""
+
+#: skin-options.php:1934
+msgid "Sidebar Color Scheme"
+msgstr ""
+
+#: skin-options.php:1946
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: skin-options.php:1959 skin-options.php:1964
+msgid "Color scheme editor"
+msgstr ""
+
+#: skin-options.php:1960
+msgid ""
+"Select color scheme to modify. Attention! Only those sections in the site "
+"will be changed which this scheme was assigned to"
+msgstr ""
+
+#: skin-options.php:1995
+msgid "Category"
+msgstr ""
+
+#: skin-options.php:1996
+msgid "Tag"
+msgstr ""
+
+#: skin-options.php:1997
+msgid "Author"
+msgstr ""
+
+#: skin-options.php:1998 templates/search-form.php:19
+msgid "Search"
+msgstr ""
+
+#: skin-options.php:2008
+msgid "Typography"
+msgstr ""
+
+#: skin-options.php:2017 skin-options.php:2023
+msgid "Load fonts"
+msgstr ""
+
+#: skin-options.php:2018
+msgid ""
+"Specify fonts to load when theme start. You can use them in the base theme "
+"elements: headers, text, menu, links, input fields, etc."
+msgstr ""
+
+#: skin-options.php:2019
+msgid ""
+"Press \"Refresh\" button to reload preview area after the all fonts are "
+"changed"
+msgstr ""
+
+#: skin-options.php:2028
+msgid "Google fonts subsets"
+msgstr ""
+
+#: skin-options.php:2029
+msgid ""
+"Specify comma separated list of the subsets which will be load from Google "
+"fonts"
+msgstr ""
+
+#: skin-options.php:2030
+msgid ""
+"Available subsets are: latin,latin-ext,cyrillic,cyrillic-ext,greek,greek-ext,"
+"vietnamese"
+msgstr ""
+
+#: skin-options.php:2042
+#, php-format
+msgid "Font %s"
+msgstr ""
+
+#: skin-options.php:2048
+msgid "Font name"
+msgstr ""
+
+#: skin-options.php:2056
+msgid "Font family"
+msgstr ""
+
+#: skin-options.php:2058
+msgid "Select font family to use it if font above is not available"
+msgstr ""
+
+#: skin-options.php:2064 skin-options.php:2134 skin-options.php:2148
+#: skin-options.php:2155 skin-options.php:2164 skin.php:363
+msgid "Inherit"
+msgstr ""
+
+#: skin-options.php:2065
+msgid "serif"
+msgstr ""
+
+#: skin-options.php:2066
+msgid "sans-serif"
+msgstr ""
+
+#: skin-options.php:2067
+msgid "monospace"
+msgstr ""
+
+#: skin-options.php:2068
+msgid "cursive"
+msgstr ""
+
+#: skin-options.php:2069
+msgid "fantasy"
+msgstr ""
+
+#: skin-options.php:2074
+msgid "Font styles"
+msgstr ""
+
+#: skin-options.php:2076
+msgid ""
+"Font styles used only for the Google fonts. This is a comma separated list "
+"of the font weight and styles. For example: 400,400italic,700"
+msgstr ""
+
+#: skin-options.php:2078
+msgid ""
+"Attention! Each weight and style increase download size! Specify only used "
+"weights and styles."
+msgstr ""
+
+#: skin-options.php:2097 skin-options.php:2108
+#, php-format
+msgid "%s settings"
+msgstr ""
+
+#: skin-options.php:2101
+#, php-format
+msgid "Font settings of the \"%s\" tag."
+msgstr ""
+
+#: skin-options.php:2135
+msgid "100 (Light)"
+msgstr ""
+
+#: skin-options.php:2136
+msgid "200 (Light)"
+msgstr ""
+
+#: skin-options.php:2137
+msgid "300 (Thin)"
+msgstr ""
+
+#: skin-options.php:2138
+msgid "400 (Normal)"
+msgstr ""
+
+#: skin-options.php:2139
+msgid "500 (Semibold)"
+msgstr ""
+
+#: skin-options.php:2140
+msgid "600 (Semibold)"
+msgstr ""
+
+#: skin-options.php:2141
+msgid "700 (Bold)"
+msgstr ""
+
+#: skin-options.php:2142
+msgid "800 (Black)"
+msgstr ""
+
+#: skin-options.php:2143
+msgid "900 (Black)"
+msgstr ""
+
+#: skin-options.php:2149
+msgid "Normal"
+msgstr ""
+
+#: skin-options.php:2150
+msgid "Italic"
+msgstr ""
+
+#: skin-options.php:2157
+msgid "Underline"
+msgstr ""
+
+#: skin-options.php:2158
+msgid "Overline"
+msgstr ""
+
+#: skin-options.php:2159
+msgid "Line-through"
+msgstr ""
+
+#: skin-options.php:2166
+msgid "Uppercase"
+msgstr ""
+
+#: skin-options.php:2167
+msgid "Lowercase"
+msgstr ""
+
+#: skin-options.php:2168
+msgid "Capitalize"
+msgstr ""
+
+#: skin-options.php:2199
+msgid "Header video"
+msgstr ""
+
+#: skin-options.php:2200
+msgid "Select video to use it as background for the header"
+msgstr ""
+
+#: skin-options.php:2217
+msgid "Logo"
+msgstr ""
+
+#: skin-options.php:2218
+msgid "Select or upload the site logo"
+msgstr ""
+
+#: skin-options.php:2241
+#, php-format
+msgid "Style and components of the %s posts page"
+msgstr ""
+
+#: skin-options.php:2246
+#, php-format
+msgid "%s posts page"
+msgstr ""
+
+#: skin-options.php:2248
+#, php-format
+msgid ""
+"Customize the %s posts page: the posts layout, the style of the header and "
+"footer, the sidebar position and the set of widgets, etc."
+msgstr ""
+
+#: skin-options.php:2287
+msgid ""
+"Set up post meta parts to show in the blog archive. Post counters and Share "
+"Links are available only if plugin ThemeREX Addons is active"
+msgstr ""
+
+#: skin-options.php:2305
+msgid ""
+"Select animation to show posts on the {$title} posts page. Attention! Do not "
+"use any animation on pages with the \"wheel to the anchor\" behaviour!"
+msgstr ""
+
+#: skin-options.php:2312
+msgid ""
+"Allow to open the full version of the post directly in the posts feed. "
+"Attention! Applies only to 1 column layouts!"
+msgstr ""
+
+#: skin-options.php:2471
+#, php-format
+msgid ""
+"Customize the %s: post layout, header and footer style, sidebar position, "
+"etc."
+msgstr ""
+
+#: skin-options.php:2505
+#, php-format
+msgid "Select custom layout to display the site header on the %s pages"
+msgstr ""
+
+#: skin-options.php:2516
+#, php-format
+msgid "Select position to display the site header on the %s pages"
+msgstr ""
+
+#: skin-options.php:2523
+msgid "Allow override the header image with the post's featured image"
+msgstr ""
+
+#: skin-options.php:2531
+#, php-format
+msgid "Select set of widgets to show in the header on the %s pages"
+msgstr ""
+
+#: skin-options.php:2544
+#, php-format
+msgid "Sidebar position on the %s list"
+msgstr ""
+
+#: skin-options.php:2546
+#, php-format
+msgid "Select position to show sidebar on the %s list"
+msgstr ""
+
+#: skin-options.php:2553
+#, php-format
+msgid "Sidebar position on the %s list on the small screen"
+msgstr ""
+
+#: skin-options.php:2564
+#, php-format
+msgid "Sidebar style on the %s list"
+msgstr ""
+
+#: skin-options.php:2586
+#, php-format
+msgid "Sidebar widgets on the %s list"
+msgstr ""
+
+#: skin-options.php:2588
+#, php-format
+msgid "Select sidebar to show on the %s list"
+msgstr ""
+
+#: skin-options.php:2598
+msgid "Sidebar position on the single post"
+msgstr ""
+
+#: skin-options.php:2600
+#, php-format
+msgid "Select position to show sidebar on the single posts of the %s"
+msgstr ""
+
+#: skin-options.php:2606
+msgid "Sidebar position on the single post on the small screen"
+msgstr ""
+
+#: skin-options.php:2617
+msgid "Sidebar style on the single post"
+msgstr ""
+
+#: skin-options.php:2638
+msgid "Sidebar widgets on the single post"
+msgstr ""
+
+#: skin-options.php:2640
+#, php-format
+msgid "Select widgets to show in the sidebar on the single posts of the %s"
+msgstr ""
+
+#: skin-options.php:2651
+msgid "Content width if the sidebar is hidden or leave it narrow"
+msgstr ""
+
+#: skin-options.php:2658
+msgid "Content width on the single post"
+msgstr ""
+
+#: skin-options.php:2659
+msgid "Content width on the single post if the sidebar is hidden"
+msgstr ""
+
+#: skin-options.php:2680
+msgid "Select custom layout to display the site footer"
+msgstr ""
+
+#: skin-options.php:2720
+msgid "Additional panels"
+msgstr ""
+
+#: skin-options.php:2798
+msgid "- Select category -"
+msgstr ""
+
+#: skin-plugins.php:13
+msgid "Core"
+msgstr ""
+
+#: skin-plugins.php:14
+msgid "Page Builders"
+msgstr ""
+
+#: skin-plugins.php:15
+msgid "E-Commerce & Donations"
+msgstr ""
+
+#: skin-plugins.php:16
+msgid "Socials and Communities"
+msgstr ""
+
+#: skin-plugins.php:17
+msgid "Events and Appointments"
+msgstr ""
+
+#: skin-plugins.php:19
+msgid "Other"
+msgstr ""
+
+#: skin-plugins.php:23
+msgid "ThemeREX Addons"
+msgstr ""
+
+#: skin-plugins.php:24
+msgid ""
+"Will allow you to install recommended plugins, demo content, and improve the "
+"theme's functionality overall with multiple theme options"
+msgstr ""
+
+#: skin-plugins.php:30
+msgid "Elementor"
+msgstr ""
+
+#: skin-plugins.php:31
+msgid ""
+"Is a beautiful PageBuilder, even the free version of which allows you to "
+"create great pages using a variety of modules."
+msgstr ""
+
+#: skin-plugins.php:37
+msgid "Gutenberg"
+msgstr ""
+
+#: skin-plugins.php:38
+msgid ""
+"It's a posts editor coming in place of the classic TinyMCE. Can be installed "
+"and used in parallel with Elementor"
+msgstr ""
+
+#: skin-plugins.php:45
+msgid "WPBakery PageBuilder"
+msgstr ""
+
+#: skin-plugins.php:46
+msgid "Popular PageBuilder which allows you to create excellent pages"
+msgstr ""
+
+#: skin-plugins.php:53
+msgid "WPBakery PageBuilder extensions bundle"
+msgstr ""
+
+#: skin-plugins.php:54
+msgid "Many shortcodes for the WPBakery PageBuilder"
+msgstr ""
+
+#: skin-plugins.php:61
+msgid "WooCommerce"
+msgstr ""
+
+#: skin-plugins.php:62
+msgid "Connect the store to your website and start selling now"
+msgstr ""
+
+#: skin-plugins.php:69
+msgid "Elegro Crypto Payment"
+msgstr ""
+
+#: skin-plugins.php:70
+msgid "Extends WooCommerce Payment Gateways with an elegro Crypto Payment"
+msgstr ""
+
+#: skin-plugins.php:77
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: skin-plugins.php:85
+msgid "Give"
+msgstr ""
+
+#: skin-plugins.php:93
+msgid "BBPress and BuddyPress"
+msgstr ""
+
+#: skin-plugins.php:101
+msgid "Instagram Feed"
+msgstr ""
+
+#: skin-plugins.php:102
+msgid "Displays the latest photos from your profile on Instagram"
+msgstr ""
+
+#: skin-plugins.php:109
+msgid "MailChimp for WP"
+msgstr ""
+
+#: skin-plugins.php:110
+msgid "Allows visitors to subscribe to newsletters"
+msgstr ""
+
+#: skin-plugins.php:116
+msgid "Booked Appointments"
+msgstr ""
+
+#: skin-plugins.php:124
+msgid "Content Timeline"
+msgstr ""
+
+#: skin-plugins.php:132
+msgid "MP Time Table"
+msgstr ""
+
+#: skin-plugins.php:140
+msgid "The Events Calendar"
+msgstr ""
+
+#: skin-plugins.php:148
+msgid "Contact Form 7"
+msgstr ""
+
+#: skin-plugins.php:149
+msgid "CF7 allows you to create an unlimited number of contact forms"
+msgstr ""
+
+#: skin-plugins.php:155
+msgid "Calculated Fields Form"
+msgstr ""
+
+#: skin-plugins.php:163
+msgid "Essential Grid"
+msgstr ""
+
+#: skin-plugins.php:171
+msgid "Revolution Slider"
+msgstr ""
+
+#: skin-plugins.php:179
+msgid "UberMenu"
+msgstr ""
+
+#: skin-plugins.php:180
+msgid "Popular MenuBuilder which allows you to create excellent menus"
+msgstr ""
+
+#: skin-plugins.php:187
+msgid "WPML - Sitepress Multilingual CMS"
+msgstr ""
+
+#: skin-plugins.php:188
+msgid "Allows you to make your website multilingual"
+msgstr ""
+
+#: skin-plugins.php:195
+msgid "WP GDPR Compliance"
+msgstr ""
+
+#: skin-plugins.php:196
+msgid ""
+"Allow visitors to decide for themselves what personal data they want to "
+"store on your site"
+msgstr ""
+
+#: skin-plugins.php:203
+msgid "ThemeREX Updater"
+msgstr ""
+
+#: skin-plugins.php:204
+msgid ""
+"Update theme and theme-specific plugins from developer's upgrade server."
+msgstr ""
+
+#: skin-plugins.php:210
+msgid "ThemeREX Popup"
+msgstr ""
+
+#: skin-plugins.php:211
+msgid "Add popup to your site."
+msgstr ""
+
+#: skin-plugins.php:217
+msgid "Envato Market"
+msgstr ""
+
+#: skin-setup.php:74
+#, php-format
+msgid ""
+"Font settings of the %s of the site. To correctly display the site on mobile "
+"devices, use only the following units: \"rem\", \"em\" or \"ex\""
+msgstr ""
+
+#: skin-setup.php:79
+msgid "Main text"
+msgstr ""
+
+#: skin-setup.php:80
+msgid "main text"
+msgstr ""
+
+#: skin-setup.php:93
+msgid "Article text"
+msgstr ""
+
+#: skin-setup.php:94
+msgid "article text"
+msgstr ""
+
+#: skin-setup.php:107
+msgid "Heading 1"
+msgstr ""
+
+#: skin-setup.php:108
+msgid "tag H1"
+msgstr ""
+
+#: skin-setup.php:121
+msgid "Heading 2"
+msgstr ""
+
+#: skin-setup.php:122
+msgid "tag H2"
+msgstr ""
+
+#: skin-setup.php:135
+msgid "Heading 3"
+msgstr ""
+
+#: skin-setup.php:136
+msgid "tag H3"
+msgstr ""
+
+#: skin-setup.php:149
+msgid "Heading 4"
+msgstr ""
+
+#: skin-setup.php:150
+msgid "tag H4"
+msgstr ""
+
+#: skin-setup.php:163
+msgid "Heading 5"
+msgstr ""
+
+#: skin-setup.php:164
+msgid "tag H5"
+msgstr ""
+
+#: skin-setup.php:177
+msgid "Heading 6"
+msgstr ""
+
+#: skin-setup.php:178
+msgid "tag H6"
+msgstr ""
+
+#: skin-setup.php:191
+msgid "Logo text"
+msgstr ""
+
+#: skin-setup.php:192
+msgid "text of the logo"
+msgstr ""
+
+#: skin-setup.php:203
+msgid "Buttons"
+msgstr ""
+
+#: skin-setup.php:204
+msgid "buttons"
+msgstr ""
+
+#: skin-setup.php:215
+msgid "Input fields"
+msgstr ""
+
+#: skin-setup.php:216
+msgid "input fields, dropdowns and textareas"
+msgstr ""
+
+#: skin-setup.php:228
+msgid "post meta (author, categories, publish date, counters, share, etc.)"
+msgstr ""
+
+#: skin-setup.php:241 templates/header-navi-side.php:32
+msgid "Main menu"
+msgstr ""
+
+#: skin-setup.php:242
+msgid "main menu items"
+msgstr ""
+
+#: skin-setup.php:253
+msgid "Dropdown menu"
+msgstr ""
+
+#: skin-setup.php:254
+msgid "dropdown menu items"
+msgstr ""
+
+#: skin-setup.php:282
+msgid "Main"
+msgstr ""
+
+#: skin-setup.php:283
+msgid "Colors of the main content area"
+msgstr ""
+
+#: skin-setup.php:286
+msgid "Alter"
+msgstr ""
+
+#: skin-setup.php:287
+msgid "Colors of the alternative blocks (sidebars, etc.)"
+msgstr ""
+
+#: skin-setup.php:290
+msgid "Extra"
+msgstr ""
+
+#: skin-setup.php:291
+msgid ""
+"Colors of the extra blocks (dropdowns, price blocks, table headers, etc.)"
+msgstr ""
+
+#: skin-setup.php:294
+msgid "Inverse"
+msgstr ""
+
+#: skin-setup.php:295
+msgid ""
+"Colors of the inverse blocks - when link color used as background of the "
+"block (dropdowns, blockquotes, etc.)"
+msgstr ""
+
+#: skin-setup.php:298
+msgid "Input"
+msgstr ""
+
+#: skin-setup.php:299
+msgid "Colors of the form fields (text field, textarea, select, etc.)"
+msgstr ""
+
+#: skin-setup.php:307
+msgid "Background color"
+msgstr ""
+
+#: skin-setup.php:308
+msgid "Background color of this block in the normal state"
+msgstr ""
+
+#: skin-setup.php:311
+msgid "Background hover"
+msgstr ""
+
+#: skin-setup.php:312
+msgid "Background color of this block in the hovered state"
+msgstr ""
+
+#: skin-setup.php:315
+msgid "Border color"
+msgstr ""
+
+#: skin-setup.php:316
+msgid "Border color of this block in the normal state"
+msgstr ""
+
+#: skin-setup.php:319
+msgid "Border hover"
+msgstr ""
+
+#: skin-setup.php:320
+msgid "Border color of this block in the hovered state"
+msgstr ""
+
+#: skin-setup.php:323
+msgid "Text"
+msgstr ""
+
+#: skin-setup.php:324
+msgid "Color of the text inside this block"
+msgstr ""
+
+#: skin-setup.php:327
+msgid "Text dark"
+msgstr ""
+
+#: skin-setup.php:328
+msgid "Color of the dark text (bold, header, etc.) inside this block"
+msgstr ""
+
+#: skin-setup.php:331
+msgid "Text light"
+msgstr ""
+
+#: skin-setup.php:332
+msgid "Color of the light text (post meta, etc.) inside this block"
+msgstr ""
+
+#: skin-setup.php:335
+msgid "Link"
+msgstr ""
+
+#: skin-setup.php:336
+msgid "Color of the links inside this block"
+msgstr ""
+
+#: skin-setup.php:339
+msgid "Link hover"
+msgstr ""
+
+#: skin-setup.php:340
+msgid "Color of the hovered state of links inside this block"
+msgstr ""
+
+#: skin-setup.php:343
+msgid "Link 2"
+msgstr ""
+
+#: skin-setup.php:344
+msgid "Color of the accented texts (areas) inside this block"
+msgstr ""
+
+#: skin-setup.php:347
+msgid "Link 2 hover"
+msgstr ""
+
+#: skin-setup.php:348
+msgid "Color of the hovered state of accented texts (areas) inside this block"
+msgstr ""
+
+#: skin-setup.php:351
+msgid "Link 3"
+msgstr ""
+
+#: skin-setup.php:352
+msgid "Color of the other accented texts (buttons) inside this block"
+msgstr ""
+
+#: skin-setup.php:355
+msgid "Link 3 hover"
+msgstr ""
+
+#: skin-setup.php:356
+msgid ""
+"Color of the hovered state of other accented texts (buttons) inside this "
+"block"
+msgstr ""
+
+#: skin-setup.php:366
+msgid "Default"
+msgstr ""
+
+#: skin-setup.php:523
+msgid "Blue"
+msgstr ""
+
+#: skin-setup.php:849
+msgid "Huge image"
+msgstr ""
+
+#: skin-setup.php:856
+msgid "Large image"
+msgstr ""
+
+#: skin-setup.php:861
+msgid "Related image"
+msgstr ""
+
+#: skin-setup.php:868
+msgid "Medium image"
+msgstr ""
+
+#: skin-setup.php:875
+msgid "Small square avatar"
+msgstr ""
+
+#: skin-setup.php:881
+msgid "bavatar"
+msgstr ""
+
+#: skin-setup.php:887
+msgid "portfolio"
+msgstr ""
+
+#: skin-setup.php:894
+msgid "Masonry service"
+msgstr ""
+
+#: skin-setup.php:899
+msgid "Masonry Large (scaled)"
+msgstr ""
+
+#: skin-setup.php:907
+msgid "Masonry (scaled)"
+msgstr ""
+
+#: skin-setup.php:926
+msgid "Standard"
+msgstr ""
+
+#: skin-setup.php:933
+msgid "Band"
+msgstr ""
+
+#: skin-setup.php:951
+msgid "Classic Masonry"
+msgstr ""
+
+#: skin-setup.php:961
+msgid "Portfolio"
+msgstr ""
+
+#: skin-setup.php:970
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: skin-setup.php:994
+msgid "Style 1"
+msgstr ""
+
+#: skin-setup.php:995
+msgid ""
+"Fullwidth image is above the content area, the title and meta are over the "
+"image"
+msgstr ""
+
+#: skin-setup.php:1000
+msgid "Style 2"
+msgstr ""
+
+#: skin-setup.php:1001
+msgid ""
+"Fullwidth image is above the content area, the title and meta are inside the "
+"content area"
+msgstr ""
+
+#: skin-setup.php:1006
+msgid "Style 3"
+msgstr ""
+
+#: skin-setup.php:1007
+msgid ""
+"Fullwidth image is above the content area, the title and meta are below the "
+"image"
+msgstr ""
+
+#: skin-setup.php:1012
+msgid "Style 4"
+msgstr ""
+
+#: skin-setup.php:1013
+msgid ""
+"Boxed image is above the content area, the title and meta are above the image"
+msgstr ""
+
+#: skin-setup.php:1018
+msgid "Style 5"
+msgstr ""
+
+#: skin-setup.php:1019
+msgid ""
+"Boxed image is inside the content area, the title and meta are above the "
+"content area"
+msgstr ""
+
+#: skin-setup.php:1024
+msgid "Style 6"
+msgstr ""
+
+#: skin-setup.php:1025
+msgid ""
+"Boxed image, the title and meta are inside the content area, the title and "
+"meta are above the image"
+msgstr ""
+
+#: skin-setup.php:1030
+msgid "Style 7"
+msgstr ""
+
+#: skin-setup.php:1031
+msgid ""
+"Boxed image, the title and meta are above the content area like two big "
+"square areas"
+msgstr ""
+
+#: skin.php:98
+msgid "Transparent"
+msgstr ""
+
+#: skin.php:117
+msgid "Left"
+msgstr ""
+
+#: skin.php:156
+msgid "Square image frame"
+msgstr ""
+
+#: skin.php:157
+msgid "Make image's frame square form"
+msgstr ""
+
+#: skin.php:159
+msgid "Off"
+msgstr ""
+
+#: skin.php:160
+msgid "On"
+msgstr ""
+
+#: skin.php:233
+msgid "Onplate"
+msgstr ""
+
+#: skin.php:234
+msgid "Withborder"
+msgstr ""
+
+#: skin.php:323
+msgid "Color scheme:"
+msgstr ""
+
+#: skin.php:409
+msgid "Categories:"
+msgstr ""
+
+#: skin.php:426
+msgid "Tags:"
+msgstr ""
+
+#: skin.php:503
+msgid "Next"
+msgstr ""
+
+#: skin.php:507
+msgid "Previous"
+msgstr ""
+
+#: skin.php:527
+msgid "Send Comment"
+msgstr ""
+
+#: templates/admin-notice.php:18 templates/admin-rate.php:19
+msgid "Theme screenshot"
+msgstr ""
+
+#: templates/admin-notice.php:29
+#, php-format
+msgid "Welcome to %1$s v.%2$s"
+msgstr ""
+
+#: templates/admin-notice.php:30 templates/admin-rate.php:31
+msgid "Free"
+msgstr ""
+
+#: templates/admin-notice.php:48
+msgid ""
+"Attention! Plugin \"ThemeREX Addons\" is required! Please, install and "
+"activate it!"
+msgstr ""
+
+#: templates/admin-notice.php:62
+msgid "Install plugin \"ThemeREX Addons\""
+msgstr ""
+
+#: templates/admin-notice.php:68 templates/admin-rate.php:78
+msgid "Dismiss"
+msgstr ""
+
+#: templates/admin-rate.php:30
+#, php-format
+msgid "Rate our theme \"%s\", please"
+msgstr ""
+
+#: templates/admin-rate.php:41
+msgid ""
+"We are glad you chose our WP theme for your website. You've done well "
+"customizing your website and we hope that you've enjoyed working with our "
+"theme."
+msgstr ""
+
+#: templates/admin-rate.php:42
+msgid ""
+"It would be just awesome if you spend just a minute of your time to rate our "
+"theme or the customer service you've received from us."
+msgstr ""
+
+#: templates/admin-rate.php:43
+msgid ""
+"* We love receiving your reviews! Every time you leave a review, our CEO "
+"Henry Rise gives $5 to homeless dog shelter! Save the planet with us!"
+msgstr ""
+
+#: templates/admin-rate.php:56
+#, php-format
+msgid "Rate theme %s"
+msgstr ""
+
+#: templates/admin-rate.php:64
+msgid "Support"
+msgstr ""
+
+#: templates/admin-rate.php:72
+msgid "Documentation"
+msgstr ""
+
+#: templates/author-bio.php:22
+msgid "About "
+msgstr ""
+
+#: templates/author-bio.php:32
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: templates/author-page.php:29
+#, php-format
+msgid "%s article published"
+msgstr ""
+
+#: templates/author-page.php:35
+msgid "No posts published."
+msgstr ""
+
+#: templates/author-page.php:44
+msgid "Follow:"
+msgstr ""
+
+#: templates/content-404.php:3
+msgid "404"
+msgstr ""
+
+#: templates/content-404.php:5
+msgid "Oops..."
+msgstr ""
+
+#: templates/content-404.php:6
+msgid "We're sorry, but <br>something went wrong."
+msgstr ""
+
+#: templates/content-404.php:7
+msgid "Homepage"
+msgstr ""
+
+#: templates/content-excerpt.php:141 templates/content-page.php:39
+msgid "Pages:"
+msgstr ""
+
+#: templates/content-excerpt.php:145 templates/content-page.php:43
+msgid "Page"
+msgstr ""
+
+#: templates/content-none-archive.php:3 templates/content-none-search.php:3
+msgid "No results"
+msgstr ""
+
+#: templates/content-none-archive.php:5
+msgid "We're sorry, but your query did not match"
+msgstr ""
+
+#: templates/content-none-archive.php:9 templates/content-none-search.php:14
+#, php-format
+msgid ""
+"Can't find what you need? Take a moment and do a search below or start from "
+"<a href='%s'>our homepage</a>."
+msgstr ""
+
+#: templates/content-none-search.php:8
+#, php-format
+msgid "We're sorry, but your search \"%s\" did not match"
+msgstr ""
+
+#: templates/footer-logo.php:24
+msgid "Site logo"
+msgstr ""
+
+#: templates/header-title.php:64
+msgid "Site icon"
+msgstr ""
+
+#: templates/related-posts-classic.php:33 templates/related-posts-list.php:17
+#: templates/related-posts-modern.php:20 templates/related-posts-short.php:17
+#: templates/related-posts-wide.php:23 templates/related-posts.php:23
+msgid "- No title -"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:19
+msgid "Button's hover"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:20
+msgid "Select hover effect to decorate all theme buttons"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:23
+msgid "Fade"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:29
+msgid "Image's hover"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:30
+msgid "Select hover effect to decorate all theme images"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:207
+msgid "Select options"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:207
+msgid "Buy now"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:218
+msgid "View products"
+msgstr ""
+
+#: theme-specific/theme-hovers/theme-hovers.php:220
+msgid "Details"
+msgstr ""

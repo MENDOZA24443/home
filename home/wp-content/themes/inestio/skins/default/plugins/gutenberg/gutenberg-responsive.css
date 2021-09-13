@@ -1,0 +1,200 @@
+@media (max-width: 1679px) {
+  /* Gutenberg */
+  body.edit-post-visual-editor {
+    line-height: 164.2857%;
+  }
+  .editor-post-sidebar-holder {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1439px) {
+  /* Gutenberg */
+  .editor-block-list__block,
+  .editor-post-title__block,
+  .editor-default-block-appender {
+    max-width: 714.52991px !important;
+  }
+  body.sidebar_position_hide.expand_content .editor-block-list__block,
+  body.sidebar_position_hide.expand_content .editor-post-title__block,
+  body.sidebar_position_hide.expand_content .editor-default-block-appender {
+    max-width: 1100px !important;
+  }
+  body.sidebar_position_hide.narrow_content .editor-block-list__block,
+  body.sidebar_position_hide.narrow_content .editor-post-title__block,
+  body.sidebar_position_hide.narrow_content .editor-default-block-appender {
+    max-width: 952.70655px !important;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit,
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    max-width: 252.05128px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: -282.05128px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: -282.05128px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: -192.73504px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: -192.73504px;
+  }
+  body.single-cpt_layouts .trx-addons-layout--single-preview {
+    max-width: 1100px !important;
+  }
+}
+
+@media (max-width: 1279px) {
+  /* Gutenberg */
+  body.edit-post-visual-editor {
+    font-size: 13px !important;
+    line-height: 161.54%;
+  }
+  .editor-block-list__block,
+  .editor-post-title__block,
+  .editor-default-block-appender {
+    max-width: 626.18803px !important;
+  }
+  body.sidebar_position_hide.expand_content .editor-block-list__block,
+  body.sidebar_position_hide.expand_content .editor-post-title__block,
+  body.sidebar_position_hide.expand_content .editor-default-block-appender {
+    max-width: 964px !important;
+  }
+  body.sidebar_position_hide.narrow_content .editor-block-list__block,
+  body.sidebar_position_hide.narrow_content .editor-post-title__block,
+  body.sidebar_position_hide.narrow_content .editor-default-block-appender {
+    max-width: 469.64103px !important;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit,
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    max-width: 217.17949px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: -247.17949px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: -247.17949px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: -168.90598px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: -168.90598px;
+  }
+  body.single-cpt_layouts .trx-addons-layout--single-preview {
+    max-width: 964px !important;
+  }
+}
+
+@media (max-width: 1023px) {
+  /* Gutenberg */
+  .editor-block-list__block,
+  .editor-post-title__block,
+  .editor-default-block-appender {
+    max-width: 708px !important;
+  }
+  body.sidebar_position_hide.expand_content .editor-block-list__block,
+  body.sidebar_position_hide.expand_content .editor-post-title__block,
+  body.sidebar_position_hide.expand_content .editor-default-block-appender {
+    max-width: 708px !important;
+  }
+  body.sidebar_position_hide.narrow_content .editor-block-list__block,
+  body.sidebar_position_hide.narrow_content .editor-post-title__block,
+  body.sidebar_position_hide.narrow_content .editor-default-block-appender {
+    max-width: 531px !important;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit,
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    max-width: 334px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: -88.5px;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: -88.5px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin-left: 0px;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin-right: 0px;
+  }
+  body.single-cpt_layouts .trx-addons-layout--single-preview {
+    max-width: 708px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Gutenberg */
+  .editor-block-list__block,
+  .editor-post-title__block,
+  .editor-default-block-appender {
+    max-width: 440px !important;
+  }
+  body.sidebar_position_hide.expand_content .editor-block-list__block,
+  body.sidebar_position_hide.expand_content .editor-post-title__block,
+  body.sidebar_position_hide.expand_content .editor-default-block-appender {
+    max-width: 440px !important;
+  }
+  body.sidebar_position_hide.narrow_content .editor-block-list__block,
+  body.sidebar_position_hide.narrow_content .editor-post-title__block,
+  body.sidebar_position_hide.narrow_content .editor-default-block-appender {
+    max-width: 440px !important;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit,
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    max-width: none;
+    float: none;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin: 0;
+  }
+  body.sidebar_position_hide.narrow_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin: 0;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit,
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    float: none;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="left"] > .block-editor-block-list__block-edit {
+    margin: 0;
+  }
+  body.sidebar_position_hide.normal_content .block-editor-block-list__block[data-align="right"] > .block-editor-block-list__block-edit {
+    margin: 0;
+  }
+  body.sidebar_hide.narrow_content .alignwide,
+  body.sidebar_hide.normal_content .alignwide {
+    left: 0;
+    width: 100%;
+  }
+  body.single-cpt_layouts .trx-addons-layout--single-preview {
+    max-width: 440px !important;
+  }
+}
+
+@media (max-width: 479px) {
+  /* Gutenberg */
+  body.edit-post-visual-editor {
+    line-height: 153.84615%;
+  }
+  .editor-block-list__block,
+  .editor-post-title__block,
+  .editor-default-block-appender {
+    max-width: 280px !important;
+  }
+  body.sidebar_position_hide.expand_content .editor-block-list__block,
+  body.sidebar_position_hide.expand_content .editor-post-title__block,
+  body.sidebar_position_hide.expand_content .editor-default-block-appender {
+    max-width: 280px !important;
+  }
+  body.sidebar_position_hide.narrow_content .editor-block-list__block,
+  body.sidebar_position_hide.narrow_content .editor-post-title__block,
+  body.sidebar_position_hide.narrow_content .editor-default-block-appender {
+    max-width: 280px !important;
+  }
+  body.single-cpt_layouts .trx-addons-layout--single-preview {
+    max-width: 280px !important;
+  }
+}

@@ -1,0 +1,14 @@
+
+.trx_popup {
+	-webkit-animation-name: fadeIn_popup;
+	animation-name: fadeIn_popup;
+}
+.trx_popup.close {
+	-webkit-animation-name: fadeOut_popup;
+	animation-name: fadeOut_popup;
+}
+/* Custom styles
+*******************************/
+.trx_popup_subtitle + .trx_popup_button {
+    margin-top: 1.5rem!important;
+}
